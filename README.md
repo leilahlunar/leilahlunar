@@ -7,6 +7,8 @@ About Me
  Thing | Level of Knowledge
   ------- | --------------
    Python | 💡💡💡
+   Java | 💡💡💡
+   C# | 💡💡💡
    C | 💡💡💡
    HTML, CSS | 💡💡💡
    React | 💡💡💡
@@ -15,7 +17,7 @@ About Me
    JSON/YAML | 💡💡
    Terraform | 💡
    Rust | 💡
-   C# | 💡💡
+   
 - 💞️ I’m looking to collaborate on anything really, so long as I can learn.
 - 📫 How to reach me - message me here or on [LinkedIn](https://www.linkedin.com/in/leilah-syed-7794aa196/)
 
